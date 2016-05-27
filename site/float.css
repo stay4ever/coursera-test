@@ -23,10 +23,12 @@ section {
 	padding: 10px;
 	margin: 1%;
 	transition: ease 1s;
+	background-color: lightgrey;
 }
 
 h3 {
 	position: absolute;
+	width:150px;
 	display: inline-block;
 	right:0;
 	top: 0;
@@ -34,6 +36,20 @@ h3 {
 	border: 1px solid black;
 	border-top:0;
 	border-right: 0;
+
+}
+
+#h1{
+	background-color: pink;
+}
+
+#h2{
+	background-color: maroon;
+	color:white;
+}
+
+#h3{
+	background-color: beige;
 
 }
 
